@@ -1,0 +1,2 @@
+cd binary
+.\app.exe
